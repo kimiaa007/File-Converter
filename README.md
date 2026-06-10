@@ -1,5 +1,4 @@
 # File Converter
-
 Convert between different file formats.
 ## Features
 - Image conversion
@@ -12,6 +11,5 @@ Convert between different file formats.
 - FFmpeg
 - Pillow
 - FastAPI
-
 ## License
 MIT
