@@ -20,7 +20,6 @@ Full-featured online store.
 - Express
 - MongoDB
 - Stripe
-
 ## License
 MIT
 
