@@ -22,7 +22,6 @@ Full-featured online store.
 - Stripe
 ## License
 MIT
-
 - Python
 - FFmpeg
 - Pillow
