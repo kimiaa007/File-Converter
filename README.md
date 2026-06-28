@@ -7,8 +7,7 @@ Convert between different file formats.
 - Cloud storage
 ##Tech Stack
 #E-commerce Store
-Full-featured online store.
-##Features
+Full-featured online store
 - Product catalog
 - Shopping cart
 - Payment gateway
