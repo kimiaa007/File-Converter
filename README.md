@@ -11,7 +11,7 @@ Full-featured online store
 - Product catalog
 - Shopping cart
 - Paymen
-- Order management
+- management
 ## Tech Stack
 - Node.js
 - Express
