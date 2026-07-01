@@ -20,7 +20,7 @@ Full-featured online store
 ## License
 MIT
 - Python
-- FFmpeg
+- 
 - Pillow
 - FastAPI
 ## License
