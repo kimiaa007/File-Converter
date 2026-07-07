@@ -9,7 +9,7 @@ Convert between different file formats.
 #E-commerce Store
 Full-featured online store
 - Product catalog
-- Shopping cart
+- Shopping 
 - Paymen
 - management
 ## Tech Stack
