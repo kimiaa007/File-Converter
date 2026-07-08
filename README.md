@@ -20,7 +20,6 @@ Full-featured online store
 ## License
 MIT
 - Python
-- 
 - Pillow
 - FastAPI
 ## License
