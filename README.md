@@ -10,7 +10,6 @@ Convert between different file formats.
 Full-featured online store
 - Product catalog
 - Shopping 
-- Paymen
 - management
 ## Tech Stack
 - Node.js
