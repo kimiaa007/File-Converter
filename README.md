@@ -10,12 +10,14 @@ Convert between different file formats.
 - Product catalog
 - Shopping 
 - management
+- 
 ## Tech Stack
 - Node.js
 - Express
 - MongoDB
 - Stripe
 ## License
+
 MIT
 - Python
 - Pillow
